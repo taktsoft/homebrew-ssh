@@ -1,4 +1,4 @@
-# Taktsoft Ssh
+# Taktsoft TAP for native MacOS SSH FIDO2 security key support
 
 ## How do I install these formulae?
 
